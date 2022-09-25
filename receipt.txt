@@ -1,0 +1,5 @@
+	Receipt Details
+Currency Converted- $ 1.24984
+Conversion Fees- $ 0.0624922
+Total Amount Paid- $ 1.31234
+Thank you for your buisness!
